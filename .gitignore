@@ -8,3 +8,8 @@ npm-debug.log
 yarn-debug.log
 reports
 dist
+.vscode
+.npmrc
+.yarnrc
+.editorconfig
+
