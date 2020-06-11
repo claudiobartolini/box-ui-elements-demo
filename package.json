@@ -67,8 +67,7 @@
     "webpack-dev-server": "^3.10.2"
   },
   "engines": {
-    "yarn": "1.22",
-    "node": "10.21"
+    "yarn": "1.22"
   },
   "scripts": {
     "start": "BABEL_ENV=dev NODE_ENV=dev node --max_old_space_size=8192 node_modules/webpack-dev-server/bin/webpack-dev-server.js --mode development"
