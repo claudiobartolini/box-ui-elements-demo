@@ -67,7 +67,7 @@
     "webpack-dev-server": "^3.10.2"
   },
   "engines": {
-    "node": "12.x"
+    "yarn": "1.22"
   },
   "scripts": {
     "clean": "rm -rf dist",
