@@ -66,6 +66,9 @@
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.10.2"
   },
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
     "clean": "rm -rf dist",
     "build": "yarn install && yarn run clean && BABEL_ENV=dev NODE_ENV=dev ./node_modules/.bin/webpack --progress --colors",
