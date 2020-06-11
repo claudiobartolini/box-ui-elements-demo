@@ -1,0 +1,7 @@
+{
+    "name": "Box Elements UI demo",
+    "description": "Showcase of box elelents components",
+    "repository": "https://github.com/box/box-ui-elements-demo.git",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["box", "UI"]
+  }
