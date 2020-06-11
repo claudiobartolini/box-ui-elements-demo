@@ -71,7 +71,6 @@
     "node": "10.21"
   },
   "scripts": {
-    "build": "BABEL_ENV=dev NODE_ENV=dev ./node_modules/.bin/webpack --progress --colors",
     "start": "BABEL_ENV=dev NODE_ENV=dev node --max_old_space_size=8192 node_modules/webpack-dev-server/bin/webpack-dev-server.js --mode development"
   },
   "browserslist": [
